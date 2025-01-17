@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="eiscoding" /> </p>
 
-- 🔭 I’m currently working on [ImprovedFlameArrows](https://github.com/EISCoding/ImprovedFlameArrows)
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and C#**
-
-- 🤝 I’m looking for help with **My Personal Website**
-
-- 📫 How to reach me **contact@eiscoding.dev**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
